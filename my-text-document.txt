@@ -5,3 +5,5 @@ Here are some additional changes to this file that will be tracked by git.
 I'm currently working on the 'tangent' branch - now i'm going to go on a wild tangent! This won't affect my file that was on the original main branch :)
 
 This wild tangent is really going somewhere! This is important work! I want this merged into my main working branch! :)
+
+This is some additional work!
